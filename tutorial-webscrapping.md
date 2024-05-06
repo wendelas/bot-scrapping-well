@@ -12,3 +12,8 @@ Depois disso, vamos instalar as dependências que precisaremos neste projeto, us
     npm install axios cheerio
 
 Agora crie um arquivo index.js na raiz do seu projeto e vamos seguir em frente pois o setup está pronto!
+
+Realizar busca mais dinamica conforme o site carrega as informações
+
+    npm install puppeteer
+
